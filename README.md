@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Imaduddin Abdul Karim**.\
+Saya seorang **Asisten Laboratorium** di [Daskom Laboratory](https://www.daskomlab.com/).\
+Saya bertanggung jawab pada tampilan sosial media lab salah satunya [Instagram](https://www.instagram.com/telu.daskom/).\
+ 
+<p align="left">
+<a href="https://github.com/imadaka19">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imadaka19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imadaka19&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **imadaka19/imadaka19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
